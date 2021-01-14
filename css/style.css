@@ -1,0 +1,42 @@
+.section-one {
+    font-family: sans-serif;
+    background-color: #feeae9;
+    border-radius: 1em;
+}
+
+.highlight {
+    color: #363958;
+}
+.card-title {
+    color: #363958;
+}
+.Woman-card-footer {
+    background-color: white;
+    border: 0;
+}
+.Woman-card {
+    border: 0;
+    height: min-content;
+
+}
+.all-button {
+    background-color: #A4BC46;
+    color: white;
+    font-weight: 500;
+    left: 60px;
+}
+.price {
+   font-size:xx-large;
+   font-family: sans-serif;
+   font-weight: bolder;
+   color: #FABE4C;
+} 
+
+        
+footer {
+    text-align: center;
+    font-size: 85%;
+    color: #999;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
